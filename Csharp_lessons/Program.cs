@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using InitialLesson;
 
-Console.WriteLine("Hello, World!");
+var initLesson = new Class1();
+initLesson.From1To30();
+
+Console.ReadKey();
