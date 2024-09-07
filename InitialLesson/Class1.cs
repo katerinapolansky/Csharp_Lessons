@@ -69,3 +69,4 @@ enum TypeOfLetter
     RestorePassword,
     Birthday
 }
+

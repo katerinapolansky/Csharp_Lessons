@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\InitialLesson\InitialLesson.csproj" />
+      <ProjectReference Include="..\Lesson2\Lesson2.csproj" />
     </ItemGroup>
 
 </Project>
