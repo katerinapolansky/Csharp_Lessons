@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_lessons", "Csharp_le
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lessons", "Lessons", "{EC9829BA-3B95-46CB-90FF-E247A0C3E648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitialLesson", "InitialLesson\InitialLesson.csproj", "{0EAC6797-05C9-4D1C-A90A-ACB952ABCF64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InitialLesson", "InitialLesson\InitialLesson.csproj", "{0EAC6797-05C9-4D1C-A90A-ACB952ABCF64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2", "Lesson2\Lesson2.csproj", "{44D90647-082A-48BF-8A47-A2EC7AB7316A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework1", "homework1\homework1.csproj", "{563F3960-CDDC-4244-8C51-C801F34E9344}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{DA2ACF57-B64F-4777-BF6B-A4860F91CF59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,7 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0EAC6797-05C9-4D1C-A90A-ACB952ABCF64} = {EC9829BA-3B95-46CB-90FF-E247A0C3E648}
 		{44D90647-082A-48BF-8A47-A2EC7AB7316A} = {EC9829BA-3B95-46CB-90FF-E247A0C3E648}
-		{563F3960-CDDC-4244-8C51-C801F34E9344} = {EC9829BA-3B95-46CB-90FF-E247A0C3E648}
+		{563F3960-CDDC-4244-8C51-C801F34E9344} = {DA2ACF57-B64F-4777-BF6B-A4860F91CF59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ABBC1DEE-463F-4C38-8619-860AF8E7487A}
