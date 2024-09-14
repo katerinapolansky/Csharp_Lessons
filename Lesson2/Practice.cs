@@ -16,5 +16,23 @@ public class Practice
         int newby = Convert.ToInt32(mal);
         Console.WriteLine(newby);
     }
+
+    public void UserFlow()
+    {
+        var userData = Console.ReadLine();
+        bool isParsed = int.TryParse(userData, out int num);
+        Console.WriteLine(num);
+        if (isParsed)
+        {
+            Console.WriteLine($"The result is {num}");
+        }
+        else
+        {
+            Console.WriteLine("Couldn't parse");
+        }
+            
+
+    }
+
 }
 

@@ -1,11 +1,11 @@
 ﻿
+using HW1;
 using InitialLesson;
 using Lesson2;
 
-var initLesson = new Class1();
-initLesson.From1To30();
-var practice = new Practice();
-practice.ConvertString();
-practice.Convert2();
+var lesson2 = new Practice();
+lesson2.UserFlow();
+
+
 
 Console.ReadKey();
