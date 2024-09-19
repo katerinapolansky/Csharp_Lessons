@@ -2,9 +2,10 @@
 using Lesson_3;
 using Lesson2;
 
-var practice = new ForTasks();
+var practice = new While_Tasks();
 
-practice.For1Task();
+//practice.For1Task();
+practice.While3();
 
 Console.ReadKey();
 
