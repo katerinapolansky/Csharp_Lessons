@@ -1,11 +1,57 @@
 ﻿
-using HW1;
-using InitialLesson;
+using Lesson_3;
 using Lesson2;
 
-var lesson2 = new Practice();
-lesson2.UserFlow();
+var practice = new ForTasks();
 
-
+practice.For1Task();
 
 Console.ReadKey();
+
+
+
+//switch (i)
+//{
+//    case 0: 
+//        // some logic
+//        break;
+//    case 1:
+//        // some logic
+//        break;
+//    default:
+//        break;
+//}
+
+//if(i == 0)
+//{
+//    // some logi
+//}
+//else if (i == 1)
+//{
+//    // some logi
+//}
+//else
+//{
+
+//}
+
+//while (true)
+//{
+
+//}
+
+//{
+
+//}
+//do while (true)
+
+
+//foreach (var item in collection)
+//{
+//            // sort through
+//}
+
+//for (var i = 0; i < 10; i+=3)
+//{
+
+//}
