@@ -24,25 +24,32 @@ public class BeginTask
         int p = 2 * (a + b);
         Console.WriteLine($"Area is {s} and perimeter is {p}");
     }
+}
 
+public class Interger
+{
     public void Integer1(int l)
     {
         int dist = l / 100;
         Console.WriteLine(dist);
     }
-    
+
     public void Integer2(int m)
     {
         int ton = m / 1000;
         Console.WriteLine(ton);
     }
-    
+}
+
+public class Boolean
+{
+
     public void Boolean1(int number)
     {
         bool positive = number > 0;
         bool negative = number < 0;
     }
-    
+
     public void Boolean2()
     {
         var a = int.TryParse(Console.ReadLine(), out int num);
@@ -56,7 +63,10 @@ public class BeginTask
             Console.WriteLine("The number is odd");
         }
     }
-    
+}
+
+public class If
+{
     public void If1(int a)
     {
         if (a > 0)
