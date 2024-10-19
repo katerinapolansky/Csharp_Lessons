@@ -1,11 +1,12 @@
 ﻿
+using homework3;
 using Lesson_3;
 using Lesson2;
 
-var practice = new While_Tasks();
+var practice = new WhileTasks();
 
 //practice.For1Task();
-practice.While3();
+practice.Boolean14();
 
 Console.ReadKey();
 
