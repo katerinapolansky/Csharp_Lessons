@@ -4,7 +4,7 @@ using System;
 
 public class Class2
 {
-    static void Main()
+    static void Run()
     {
         int[] numbers = new int[5];
         Console.WriteLine("Enter 5 integers:");
@@ -35,8 +35,6 @@ public class Class2
         Console.WriteLine($"\nMaximum value in the array: {max}");
         Console.WriteLine($"Minimum value in the array: {min}");
     }
-    
-    using System;
 
     class ReverseArray
     {
@@ -59,9 +57,6 @@ public class Class2
             Console.WriteLine(); 
         }
     }
-    
-    
-    using System;
 
     class AverageOfArray
     {
@@ -82,7 +77,4 @@ public class Class2
             Console.WriteLine($"\nThe average of the array elements is: {average}");
         }
     }
-
-    
-
 }

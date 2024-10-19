@@ -17,9 +17,7 @@ public class Cycles
           
             Console.WriteLine();
         }
-    }
-
-    
+    } 
 
     static void TriangleOfStarsain()
     {
